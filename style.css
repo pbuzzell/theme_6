@@ -1,0 +1,17 @@
+/*
+Theme Name: theme_6 
+Theme URI: http://github.com/pbuzzell/theme_6.git 
+Author: pbuzzell 
+Author URI: http://peterbuzzell.com/
+Description: A starting point for something bigger. 
+Version: 0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: theme_6 
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+* {
+	font-family: Times;
+}
